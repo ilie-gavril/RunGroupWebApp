@@ -27,12 +27,12 @@ namespace RunGroupWebApp
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
 
+            
             var app = builder.Build();
-            if (args.Length == 1 && args[0].ToLower() == "seeddata")
-            {
-                //Seed.SeedUsersAndRolesAsync(app)
-                Seed.SeedData(app);
-            }
+
+            //Seed.SeedData(app);
+            //Seed.SeedUsersAndRolesAsync(app);
+
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

@@ -87,3 +87,4 @@ F:\gitDev\RunGroupWebApp\RunGroupWebApp\bin\Debug\net6.0\System.Text.Json.dll
 F:\gitDev\RunGroupWebApp\RunGroupWebApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 F:\gitDev\RunGroupWebApp\RunGroupWebApp\bin\Debug\net6.0\CloudinaryDotNet.dll
 F:\gitDev\RunGroupWebApp\RunGroupWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\gitDev\RunGroupWebApp\RunGroupWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
